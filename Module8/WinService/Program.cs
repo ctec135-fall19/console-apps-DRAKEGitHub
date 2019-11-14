@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Author: Allison Drake
+ * CTEC 135: C# Programming
+ * Windows Service
+ * 
+ * 
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.ServiceProcess;
