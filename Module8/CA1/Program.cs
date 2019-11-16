@@ -20,7 +20,7 @@ namespace CA1
         static void Main(string[] args)
         {
             Console.WriteLine("CA1 is reporting on args:");
-            Console.WriteLine();
+            Console.WriteLine("--- wait for it ---");
             Console.WriteLine("If there is something in args, it will print here " +
                 "or tell you that CA1 has zero args:");
             if (args.Length == 0) Console.WriteLine("CA1 has zero args.");
