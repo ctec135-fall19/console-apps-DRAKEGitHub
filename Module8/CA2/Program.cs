@@ -4,7 +4,10 @@
  * Console Apps
  * Problem 2
  * 
+ * The pipe symbol routes the standard output from CA1 to the standard input of CA2
  */
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;

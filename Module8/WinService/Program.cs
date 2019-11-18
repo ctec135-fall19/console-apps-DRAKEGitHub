@@ -3,6 +3,7 @@
  * CTEC 135: C# Programming
  * Windows Service
  * 
+ * Create a windows service that writes to the log. 
  * 
  */
 
